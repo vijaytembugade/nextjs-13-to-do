@@ -6,6 +6,10 @@ const nextConfig = { images: {
         protocol: 'https',
         hostname: 'vectorified.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'robohash.org',
+      },
     ],
   },}
 
